@@ -1,0 +1,5 @@
+https://www.r-bloggers.com/2018/04/bump-chart/
+
+https://thinkinsights.net/data-literacy/bump-chart/
+
+https://stackoverflow.com/questions/28391850/reverse-order-of-discrete-y-axis-in-ggplot2
